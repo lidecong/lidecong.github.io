@@ -1,3 +1,6 @@
 [submodule "p5js-examples"]
 	path = p5js-examples
 	url = https://github.com/lidecong/p5js-examples.git
+[submodule "flappybird"]
+	path = flappybird
+	url = https://github.com/lidecong/flappybird.git
